@@ -11,6 +11,7 @@ Il **Gym Bro  Management System** è un'applicazione Python progettata per la ge
 - Gestire automaticamente le prenotazioni in sequenza.
 
 L'app utilizza **Tkinter** per l'interfaccia utente e un sistema di threading per gestire i timer in background, garantendo un'esperienza utente fluida.
+È stata anche creata una presentazione PowerPoint breve che presenta le descrizioni dei file in inglese:https://docs.google.com/presentation/d/1UNfHYQee1NXiB33iJJ788ewbUbYJ69mq/edit#slide=id.p1
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
