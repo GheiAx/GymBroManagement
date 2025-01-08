@@ -1,11 +1,11 @@
 {
-    "Manubri": {"durata": 10},
-    "Cyclette": {"durata": 30},
-    "Tapis roulant": {"durata": 60},
-    "LAT Machine": {"durata": 20},
-    "Pulley": {"durata": 20},
-    "Chest Press": {"durata": 20},
-    "Shoulder Press": {"durata": 20},
-    "Leg Extension": {"durata": 20},
-    "Leg Curl": {"durata": 20}
+    "Manubri": {},
+    "Cyclette": {},
+    "Tapis roulant": {},
+    "LAT Machine": {},
+    "Pulley": {},
+    "Chest Press": {},
+    "Shoulder Press": {},
+    "Leg Extension": {},
+    "Leg Curl": {}
 }
